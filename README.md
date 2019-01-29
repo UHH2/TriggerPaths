@@ -34,11 +34,10 @@ One can also specify a specific trigger, e.g. `HLT_Photon_*`, instead of all tri
 
 ## Future features
 
-- 
-Export separate list of HLT name : last filter ?
+- Export separate list of HLT name : last filter ?
 - Export separate list of just all HLT triggers (divided by dataset?)
 
 ## Links
 
-https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT
-https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideHltGetConfiguration (old)
+- https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT
+- https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideHltGetConfiguration (old)
